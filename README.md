@@ -1,1 +1,1 @@
-<a href="http://braintrain.github.io/lomaprieta">demo</a>
+<a target="_blank" href="http://braintrain.github.io/lomaprieta">demo</a>
